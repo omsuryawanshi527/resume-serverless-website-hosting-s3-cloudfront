@@ -1,0 +1,35 @@
+
+```html
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Om Suryawanshi | Cloud Engineer</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Om Suryawanshi</h1>
+    <p>AWS Cloud Engineer (Fresher)</p>
+
+    <hr>
+
+    <h2>Professional Summary</h2>
+    <p>
+      AWS Cloud professional with hands-on experience in EC2, S3, RDS,
+      VPC, CloudFront, and IAM. Passionate about cloud infrastructure
+      and serverless architectures.
+    </p>
+
+    <h2>Projects</h2>
+    <ul>
+      <li>Static Resume Website using S3 & CloudFront</li>
+      <li>2-Tier Architecture on AWS (EC2 + RDS)</li>
+      <li>Auto Scaling with Load Balancer</li>
+    </ul>
+
+    <a href="about.html">View Skills →</a>
+  </div>
+
+</body>
+</html>
