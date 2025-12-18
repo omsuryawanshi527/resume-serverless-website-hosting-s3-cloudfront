@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About | Om Suryawanshi</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Technical Skills</h1>
+
+    <ul>
+      <li>AWS: EC2, S3, RDS, VPC, IAM, CloudFront</li>
+      <li>Operating System: Linux</li>
+      <li>Scripting: Shell Scripting, Python (Basic)</li>
+      <li>Database: MySQL</li>
+      <li>Web Servers: Apache, NGINX</li>
+    </ul>
+
+    <a href="index.html">← Back to Resume</a>
+  </div>
+
+</body>
+</html>
